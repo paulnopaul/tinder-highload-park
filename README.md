@@ -49,7 +49,6 @@ Tinder не раскрывает дневную аудиторию, но мы м
 
 ### RPS в разбивке по типам запросов
 ![image](https://user-images.githubusercontent.com/33177954/135312645-8fe1dc2d-e82e-4481-b974-b9cdee718b7b.png)
-[Copy of RPS](https://www.notion.so/96f89816d9b447af80d1c5c05074398b)
 
 Итого в секунду: 11'920'000'000 / (24 * 60 * 60) = 137 962
 
