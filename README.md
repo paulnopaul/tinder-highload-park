@@ -54,6 +54,10 @@ Tinder не раскрывает дневную аудиторию, но мы м
 ### RPS в разбивке по типам запросов
 ![image](https://user-images.githubusercontent.com/33177954/136426682-c4b3d7dd-2234-411e-89fa-dea551df62cd.png)
 
+# 3. Логическая схема БД
+![image](https://user-images.githubusercontent.com/33177954/142734668-97fb0ed1-01b0-4bd0-85b0-c4134353e785.png)
+
+
 # Источники
 
 1. [https://www.businessofapps.com/data/tinder-statistics/](https://www.businessofapps.com/data/tinder-statistics/)
